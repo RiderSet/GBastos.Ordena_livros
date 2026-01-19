@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avaliação\\GBastos.Ordena_livros\\GBastos.Ordena_livros.csproj": {}
+    "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avaliação\\gbastos.ordena_livros\\GBastos.Ordena_livros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avaliação\\GBastos.Ordena_livros\\GBastos.Ordena_livros.csproj": {
+    "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avaliação\\gbastos.ordena_livros\\GBastos.Ordena_livros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avaliação\\GBastos.Ordena_livros\\GBastos.Ordena_livros.csproj",
+        "projectUniqueName": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avaliação\\gbastos.ordena_livros\\GBastos.Ordena_livros.csproj",
         "projectName": "GBastos.Ordena_livros",
-        "projectPath": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avaliação\\GBastos.Ordena_livros\\GBastos.Ordena_livros.csproj",
+        "projectPath": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avaliação\\gbastos.ordena_livros\\GBastos.Ordena_livros.csproj",
         "packagesPath": "C:\\Users\\glbst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avaliação\\GBastos.Ordena_livros\\obj\\",
+        "outputPath": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avaliação\\gbastos.ordena_livros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
