@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "GBastos.Ordena_livros.Controllers.LivrosController",
+    "Method": "OrdenacaoLivros",
+    "RelativePath": "api/Livros/ordenar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GBastos.Ordena_livros.DTOs.OrdenacaoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

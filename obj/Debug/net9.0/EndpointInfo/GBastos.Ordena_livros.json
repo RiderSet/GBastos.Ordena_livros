@@ -1,0 +1,63 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "GBastos.Ordena_livros",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Livros/ordenar": {
+      "post": {
+        "tags": [
+          "Livros"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrdenacaoRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrdenacaoRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/OrdenacaoRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "OrdenacaoRequestDto": {
+        "type": "object",
+        "properties": {
+          "campo": {
+            "type": "string",
+            "nullable": true
+          },
+          "direcao": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Livros"
+    }
+  ]
+}

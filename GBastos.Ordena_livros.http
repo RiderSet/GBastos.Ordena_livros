@@ -1,0 +1,6 @@
+@GBastos.Ordena_livros_HostAddress = http://localhost:5156
+
+GET {{GBastos.Ordena_livros_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

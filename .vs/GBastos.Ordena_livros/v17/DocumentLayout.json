@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\desafios\\provas\\fgv\\avalia\u00E7\u00E3o\\gbastos.ordena_livros\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|solutionrelative:controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\desafios\\provas\\fgv\\avalia\u00E7\u00E3o\\gbastos.ordena_livros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\desafios\\provas\\fgv\\avalia\u00E7\u00E3o\\gbastos.ordena_livros\\repositories\\livrorepositoryinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|solutionrelative:repositories\\livrorepositoryinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\desafios\\provas\\fgv\\avalia\u00E7\u00E3o\\gbastos.ordena_livros\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\desafios\\provas\\fgv\\avalia\u00E7\u00E3o\\gbastos.ordena_livros\\dtos\\ordenacaorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|solutionrelative:dtos\\ordenacaorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8511DF4F-576B-12A5-0986-9A12EB21A0D2}|..\\GBastos.Ordena_livros.Tests\\GBastos.Ordena_livros.Tests.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\desafios\\provas\\fgv\\avalia\u00E7\u00E3o\\gbastos.ordena_livros.tests\\livroservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\desafios\\provas\\fgv\\avalia\u00E7\u00E3o\\gbastos.ordena_livros\\validators\\ordenacaorequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|solutionrelative:validators\\ordenacaorequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\desafios\\provas\\fgv\\avalia\u00E7\u00E3o\\gbastos.ordena_livros\\dtos\\livrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|solutionrelative:dtos\\livrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\desafios\\provas\\fgv\\avalia\u00E7\u00E3o\\gbastos.ordena_livros\\domain\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5C6288-8546-49B1-86EA-5F8BCFEAC817}|GBastos.Ordena_livros.csproj|solutionrelative:domain\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-19T18:00:30.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:22:45.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivroRepositoryInMemory.cs",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\Repositories\\LivroRepositoryInMemory.cs",
+              "RelativeDocumentMoniker": "Repositories\\LivroRepositoryInMemory.cs",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\Repositories\\LivroRepositoryInMemory.cs",
+              "RelativeToolTip": "Repositories\\LivroRepositoryInMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:05:36.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivrosController.cs",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\Controllers\\LivrosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LivrosController.cs",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\Controllers\\LivrosController.cs",
+              "RelativeToolTip": "Controllers\\LivrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:21:03.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LivroServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros.Tests\\LivroServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\GBastos.Ordena_livros.Tests\\LivroServiceTests.cs",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros.Tests\\LivroServiceTests.cs",
+              "RelativeToolTip": "..\\GBastos.Ordena_livros.Tests\\LivroServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:53:31.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdenacaoRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\DTOs\\OrdenacaoRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrdenacaoRequestDto.cs",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\DTOs\\OrdenacaoRequestDto.cs",
+              "RelativeToolTip": "DTOs\\OrdenacaoRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:20:56.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdenacaoRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\Validators\\OrdenacaoRequestValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\OrdenacaoRequestValidator.cs",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\Validators\\OrdenacaoRequestValidator.cs",
+              "RelativeToolTip": "Validators\\OrdenacaoRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:18:08.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LivroDto.cs",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\DTOs\\LivroDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LivroDto.cs",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\DTOs\\LivroDto.cs",
+              "RelativeToolTip": "DTOs\\LivroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:19:53.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\Domain\\Livro.cs",
+              "RelativeDocumentMoniker": "Domain\\Livro.cs",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Desafios\\Provas\\FGV\\Avalia\u00E7\u00E3o\\GBastos.Ordena_livros\\Domain\\Livro.cs",
+              "RelativeToolTip": "Domain\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T16:16:17.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
